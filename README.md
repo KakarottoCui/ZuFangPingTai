@@ -1,6 +1,6 @@
 # 大学生租房平台设计
 
-项目视频演示链接：https://live.csdn.net/v/181388
+项目视频演示链接：https://www.bilibili.com/video/BV1J94y1X7HD
 
 实现了租房平台应该有的功能：
 

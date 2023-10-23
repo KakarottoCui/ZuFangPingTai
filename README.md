@@ -2,6 +2,12 @@
 
 项目视频演示链接：https://www.bilibili.com/video/BV1J94y1X7HD
 
+用到的技术：
+
+后端：JAVA语言、SpringBoot框架、MySQL数据库、maven依赖管理等；
+
+前端：jsp页面、layUI框架等。
+
 实现了租房平台应该有的功能：
 
 租客、房东、管理员不同身份的登录和功能分配
